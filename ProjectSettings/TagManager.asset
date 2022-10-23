@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - FirstPersonWeapon
   - Water
   - UI
-  - 
-  - 
+  - PostProcessing
+  - PhysicalAmmo
   - 
   - 
   - 
@@ -40,4 +40,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Backgruond
+    uniqueID: 675602803
     locked: 0
